@@ -9,7 +9,7 @@ const quotes = [
     },
     {
         quote: "I think, therefore I am",
-        author: "René Descartes",
+        author: "Rene Descartes",
     },
     {
         quote: "Less is more",
